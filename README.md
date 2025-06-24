@@ -1,4 +1,4 @@
-# nicola_tesla
+# Nikola Tesla
 
 A new Flutter project.
 
